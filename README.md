@@ -1,1 +1,1 @@
-[Official Doc](https://docs.sqlalchemy.org/)
+[Official Doc](https://sqlalchemy.org/)
